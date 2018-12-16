@@ -1,7 +1,7 @@
 {
   "name": "tiny-ident-names",
   "version": "1.0.0",
-  "description": "CSS modules identname generator function for webpack 4+ ",
+  "description": "CSS modules identname generator function for webpack 4+",
   "main": "index.js",
   "author": "Ashley Blurton <a.k@blurton.me>",
   "license": "MIT",
